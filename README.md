@@ -17,5 +17,5 @@ $ mkdir dmg
 
 ln -s /Applications/  Applications
 
-
+![image](https://github.com/vipadm/rdm/blob/master/create%20image%20dmg.png?raw=true)
 
